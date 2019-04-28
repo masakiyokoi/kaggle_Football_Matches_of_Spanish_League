@@ -1,1 +1,3 @@
 # kaggle_Football_Matches_of_Spanish_League
+
+# kaggleのサッカースペインリーグのデータを基に勝敗予測AIを作ろうと試みました！！
